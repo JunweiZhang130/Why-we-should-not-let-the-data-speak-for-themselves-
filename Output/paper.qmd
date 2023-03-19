@@ -14,7 +14,7 @@ bibliography: references.bib
 \newpage
 # Tutorial Topic
 
-With regard to Jordan (2019 Links to an external site.), D’Ignazio and Klein (2020, chap. 6 Links to an external site.), Au (2020 Links to an external site.), and other relevant work, to what extent do you think we should let the data speak for themselves? Please write at least two pages.
+To what extent do you think we should let the data speak for themselves? Please write at least two pages.
 
 
 # Discussion
