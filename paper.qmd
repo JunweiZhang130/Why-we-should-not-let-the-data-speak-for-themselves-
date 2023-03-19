@@ -1,0 +1,41 @@
+---
+title: Why Shouldn't We Let Data Speak for Themselves? 
+subtitle: "A Brief Discisson about the Neutrality of Data"
+author: 
+  - Rae Zhang
+thanks: "Code and data are available at: https://github.com/JunweiZhang130/Why-we-should-not-let-the-data-speak-for-themselves-.git"
+date: "`r Sys.time()`"
+date-format: "D MMMM YYYY"
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+\newpage
+# Tutorial Topic
+
+With regard to Jordan (2019 Links to an external site.), D’Ignazio and Klein (2020, chap. 6 Links to an external site.), Au (2020 Links to an external site.), and other relevant work, to what extent do you think we should let the data speak for themselves? Please write at least two pages.
+
+
+# Discussion
+
+In his article "Artificial Intelligence - The Revolution Hasn't Happened Yet,"[@Jordan2019Artificial] Jordan emphasizes the significance of interdisciplinary approaches to data analysis in the AI industry. While computational and statistical disciplines have traditionally been at the forefront of data analysis, social sciences, cognitive sciences, and humanities have much to offer in this field.
+
+Jordan's argument underscores the limitations of relying solely on data-driven narratives, as it risks oversimplifying or misrepresenting complex issues. Data can be a powerful tool for communicating information, but critical thinking and social analysis are necessary to fully understand the data and its implications for society. In essence, data analysis must go beyond numbers to appreciate the human aspect of the analysis.
+
+A prime example of the dangers of relying solely on data to inform decision-making can be found in the education sector. Aparicio's paper, "Measuring efficiency in education: The influence of imprecision and variability in data on DEA estimates,"[@APARICIO2019100698] highlights how different schools collect data that can cause a different interpretation in the final data results. While summarizing data from the original observations (students), this approach neglects the existing dispersion of data, which may become a serious problem if variability across schools is high. External factors may also impact the final data results, which may result in an inaccurate picture of the schools' performance. Failure to take these factors into account may lead to an unfair labelling of certain schools as "failing," which can hinder opportunities to provide resources and support to those communities.
+
+One of the limitations of data analysis is that it only reveals correlations between variables and does not necessarily capture the underlying reasons for these correlations. To understand the deeper meaning behind data, it is necessary to incorporate social scientific and humanistic perspectives into data analysis. By doing so, researchers can move beyond simple correlations to gain a more nuanced understanding of the data and its implications.
+
+Furthermore, data-driven narratives can sometimes overlook the "human part" of the analysis. It is essential to engage with people who are impacted by the data and to consider their perspectives in any analysis. The inclusion of social scientific and humanistic perspectives can help researchers to better understand how data affects individuals and communities.
+
+Data about depression can provide important information about patterns and trends, such as demographic groups that are more likely to be affected or changes in prevalence rates over time. However, this data cannot fully capture the lived experiences of individuals who suffer from depression or the cultural and societal factors that contribute to its prevalence.
+
+In conclusion, Jordan's argument underscores the importance of adopting a holistic approach to data analysis that incorporates social scientific and humanistic perspectives. While data can be a valuable tool for generating insights and ideas, it should not be the only source of inspiration or guidance. Data-driven narratives can be misleading, and it is necessary to engage in critical thinking and social analysis to fully understand the complexities of the data and its implications for society. By adopting a holistic approach, researchers can gain a more nuanced understanding of the data, its limitations, and its possibilities.
+
+\newpage
+
+
+# References
+
+
