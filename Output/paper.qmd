@@ -19,7 +19,7 @@ To what extent do you think we should let the data speak for themselves? Please 
 
 # Discussion
 
-In his article "Artificial Intelligence - The Revolution Hasn't Happened Yet,"[@Jordan2019Artificial] Jordan emphasizes the significance of interdisciplinary approaches to data analysis in the AI industry. While computational and statistical disciplines have traditionally been at the forefront of data analysis, social sciences, cognitive sciences, and humanities have much to offer in this field.
+When there is a clear research question and transparent methods for collecting and analyzing data, data can be a powerful tool for telling stories and communicating information. In his article "Artificial Intelligence - The Revolution Hasn't Happened Yet,"[@Jordan2019Artificial] Jordan emphasizes the significance of interdisciplinary approaches to data analysis in the AI industry. While computational and statistical disciplines have traditionally been at the forefront of data analysis, social sciences, cognitive sciences, and humanities have much to offer in this field.
 
 Jordan's argument underscores the limitations of relying solely on data-driven narratives, as it risks oversimplifying or misrepresenting complex issues. Data can be a powerful tool for communicating information, but critical thinking and social analysis are necessary to fully understand the data and its implications for society. In essence, data analysis must go beyond numbers to appreciate the human aspect of the analysis.
 
