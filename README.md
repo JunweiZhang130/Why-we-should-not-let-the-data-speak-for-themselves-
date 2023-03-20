@@ -2,6 +2,7 @@
 
 ## Overview
 
-This paper talked about to what extent do you think we should let the data speak for themselves from an information science and social science perspective. The paper can be find in 'output'.
+This paper talked about to what extent do you think we should let the data speak for themselves from an information science and social science perspective. The paper can be find in  (`outputs/paper`).  
 
+## Thanks
 Thanks Randall Ni for the peer review. 
